@@ -1,0 +1,2 @@
+[2021-04-03 12:30:26] [powercreator-cms-rce] [http] [critical] https://modulous.aol.com/upload/UploadResourcePic.ashx?ResourceID=8382
+[2021-04-03 12:33:04] [powercreator-cms-rce] [http] [critical] https://staging.modulous.aol.com/upload/UploadResourcePic.ashx?ResourceID=8382
